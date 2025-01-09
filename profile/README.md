@@ -20,6 +20,7 @@
 [PayKings](https://paykings.com) is an enterprise payment processing solution that enables businesses to handle transactions securely and efficiently.
 
 #### Key Features
+- Multi-currency support
 - Fraud detection and prevention
 - Real-time transaction monitoring
 - Payment gateway integrations
@@ -28,16 +29,16 @@
 - Compliance management (PCI DSS)
 
 ### Payment Review
-[Payment Review](https://paymentreview.com) is a specialized platform for payment transaction analysis and chargeback management.
+[Payment Review](https://paymentreview.com) is an online platform providing expert insights, news, and analysis on payment processing solutions and industry trends. The platform covers payment technology, data privacy regulations, and guidance for businesses across risk levels.
 
 #### Key Features
-- Automated dispute resolution
-- Risk scoring and analysis
-- Chargeback prevention tools
-- Transaction monitoring
-- Merchant account protection
-- Analytics and reporting
-- API integration capabilities
+- Industry news and trend analysis
+- Payment processor reviews and comparisons
+- Data privacy regulation coverage
+- High-risk merchant guidance
+- Expert commentary and insights
+- Technology advancement reporting
+- Business decision support resources
 
 ## License
 This project is private and proprietary software owned by 813 Management.
