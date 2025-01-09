@@ -20,7 +20,6 @@
 [PayKings](https://paykings.com) is an enterprise payment processing solution that enables businesses to handle transactions securely and efficiently.
 
 #### Key Features
-- Multi-currency support
 - Fraud detection and prevention
 - Real-time transaction monitoring
 - Payment gateway integrations
